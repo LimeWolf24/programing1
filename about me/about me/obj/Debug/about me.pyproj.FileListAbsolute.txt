@@ -1,0 +1,20 @@
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\about me.exe.config
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\about me.exe
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\about me.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\about me\about me\obj\Debug\about me.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\about me\about me\obj\Debug\about me.exe
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\about me.exe.config
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\about me.exe
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\about me.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\IronPython.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\obj\Debug\about me.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\about me\about me\obj\Debug\about me.exe
