@@ -1,0 +1,10 @@
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\obj\Debug\Prog108a.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Prog108a.exe.config
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Prog108a.exe
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Prog108a.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\Prog108a\Prog108a\obj\Debug\Prog108a.exe

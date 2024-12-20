@@ -1,0 +1,10 @@
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\obj\Debug\Prog54aDict.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Prog54aDict.exe.config
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Prog54aDict.exe
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Prog54aDict.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\Prog54aDict\Prog54aDict\obj\Debug\Prog54aDict.exe

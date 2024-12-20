@@ -1,0 +1,10 @@
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\obj\Debug\dictionariesAndTuples.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\dictionariesAndTuples.exe.config
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\dictionariesAndTuples.exe
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\dictionariesAndTuples.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\dictionariesAndTuples\dictionariesAndTuples\obj\Debug\dictionariesAndTuples.exe

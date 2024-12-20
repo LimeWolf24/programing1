@@ -1,0 +1,12 @@
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\obj\Debug\Phone numbers.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\obj\Debug\Phone_numbers.MainForm.resources
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\obj\Debug\Phone numbers.pyproj.GenerateResource.Cache
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Phone numbers.exe.config
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Phone numbers.exe
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Phone numbers.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\Phone numbers\Phone numbers\obj\Debug\Phone numbers.exe

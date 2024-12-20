@@ -1,0 +1,10 @@
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Prog702p.exe.config
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Prog702p.exe
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Prog702p.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\obj\Debug\Prog702p.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\Prog702p\Prog702p\obj\Debug\Prog702p.exe

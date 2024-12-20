@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "favorite actoivity", "favorite actoivity\favorite actoivity.pyproj", "{E086C208-FBFB-4FAE-8DC7-7564B0EB0EDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E086C208-FBFB-4FAE-8DC7-7564B0EB0EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E086C208-FBFB-4FAE-8DC7-7564B0EB0EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E086C208-FBFB-4FAE-8DC7-7564B0EB0EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E086C208-FBFB-4FAE-8DC7-7564B0EB0EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
