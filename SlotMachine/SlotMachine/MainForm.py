@@ -112,7 +112,7 @@ class MainForm(Form):
         self._textBox1.Font = System.Drawing.Font("Microsoft YaHei", 14.25, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
         self._textBox1.Location = System.Drawing.Point(638, 329)
         self._textBox1.Name = "textBox1"
-        self._textBox1.Size = System.Drawing.Size(125, 33)
+        self._textBox1.Size = System.Drawing.Size(125, 39)
         self._textBox1.TabIndex = 6
         # 
         # button2
@@ -338,6 +338,12 @@ class MainForm(Form):
             
             if num1 == 2 and num2 == 2 and num3 == 2:
                 newmoney += bet * 2
+            
+            if num1 == 3 and num2 == 3 and num3 == 3:
+                newmoney += bet * 50
+                
+            if num1 == 4 and num2 == 4 and num3 == 4:
+                newmoney += bet * 64
             
             # TODO: check if num1, num2, and num3 = 3, 4, and 5
             # and multiply bet by whatever you want
