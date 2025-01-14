@@ -119,7 +119,7 @@
   </resheader>
   <data name="label1.Text" xml:space="preserve">
     <value>Directions: Click the peice you would like to move, it HAS to be YOUR color
-How do I move the pieces?: to move the pieces, you must click and drag to the space you would like your peice to go
+How do I move the pieces?: to move the pieces, you must click and drag to the space you would like your peice to go. Make sure to stay on the black squares!!
 Who goes first?: Red always starts then Black goes after.</value>
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />

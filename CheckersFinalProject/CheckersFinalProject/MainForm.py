@@ -157,9 +157,9 @@ class MainForm(Form):
         # 
         self._label1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         self._label1.Font = System.Drawing.Font("Microsoft Tai Le", 12, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, 0)
-        self._label1.Location = System.Drawing.Point(620, 179)
+        self._label1.Location = System.Drawing.Point(620, 167)
         self._label1.Name = "label1"
-        self._label1.Size = System.Drawing.Size(305, 153)
+        self._label1.Size = System.Drawing.Size(305, 176)
         self._label1.TabIndex = 12
         self._label1.Text = resources.GetString("label1.Text")
         # 
@@ -237,15 +237,15 @@ class MainForm(Form):
 
 
     def RedPlayer2LocationChanged(self, sender, e):
-        if self._RedPlayer2.Move():
+        if self._RedPlayer2.Location():
             Location == 108, 209
-        if self._RedPlayer4.Move():
+        if self._RedPlayer4.Location():
             Location == 108, 209 or Locaion == 308, 202
-        if self._BlackPlayer6.Move():
+        if self._RedPlayer6.Location():
             Location == 308, 202 or Location == 505, 202
-        if self._BlackPlayer2.Move():
+        if self._BlackPlayer2.Location():
             Location == 108, 209
-        if self._BlackPlayer4.Move():
+        if self._BlackPlayer4.Location():
             Location == 108, 209 or Locaion == 308, 202
-        if self._BlackPlayer6.Move():
+        if self._BlackPlayer6.Location():
             Location == 308, 202 or Location == 505, 202
