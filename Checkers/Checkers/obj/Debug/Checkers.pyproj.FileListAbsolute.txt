@@ -1,0 +1,12 @@
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Checkers.exe.config
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Checkers.exe
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Checkers.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\IronPython.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\IronPython.Modules.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Microsoft.Scripting.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\obj\Debug\Checkers.pyprojResolveAssemblyReference.cache
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\obj\Debug\Checkers.MainForm.resources
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\obj\Debug\Checkers.pyproj.GenerateResource.Cache
+C:\Users\rote.n\Desktop\programing1\Checkers\Checkers\obj\Debug\Checkers.exe
