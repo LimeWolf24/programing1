@@ -1,3 +1,0 @@
-C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\CheckersFinalProject\obj\Debug\CheckersFinalProject.pyprojResolveAssemblyReference.cache
-C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\CheckersFinalProject\obj\Debug\CheckersFinalProject.MainForm.resources
-C:\Users\rote.n\OneDrive - janesville.k12.wi.us\Desktop\programing1\CheckersFinalProject\obj\Debug\CheckersFinalProject.pyproj.GenerateResource.Cache
